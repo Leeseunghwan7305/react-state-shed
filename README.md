@@ -1,8 +1,12 @@
 ## 🌸 React State Shed
 
----
+```
+https://github.com/Leeseunghwan7305/react-state-shed
+```
 
 ## 🌸 설치
+
+---
 
 ```
 npm i react-state-shed
@@ -139,4 +143,4 @@ export default Three;
 
 ## 🌸 실행 결과
 
-![실행 결과](/public/readme.gif)
+![실행 결과](public/readme.gif)
