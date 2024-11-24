@@ -139,4 +139,4 @@ export default Three;
 
 ## 🌸 실행 결과
 
-![실행 결과](/public/readme.gif)
+![실행 결과](/stan/src/assets/readme.gif)
